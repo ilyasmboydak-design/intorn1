@@ -1,7 +1,7 @@
 {
   "Vaka 1": {
     "kod": "S1A",
-    "sikayet": "Valla hocam, dün akşam kapağı açık kalan kırma buğday çuvalına dadanmış bizim inek. Sabah bir geldik ki hayvan yattığı yerden kalkamıyor, karnı davul gibi şişmiş, sallanınca çalkantı sesi geliyor. Ağzından köpüklü salya akıyor, arkasından da gri-sarı renkli, ekşi kokulu sulu bir dışkı fışkırıyor.",
+    "sikayet": "hocam, sabah bir geldik ki hayvan yattığı yerden kalkamıyor, karnı davul gibi şişmiş, sallanınca çalkantı sesi geliyor. Ağzından köpüklü salya akıyor, arkasından da gri-sarı renkli, ekşi kokulu sulu bir dışkı fışkırıyor.",
     "egitmen_bilgisi": {
       "kesin_tani": "Akut Laktik Rumen Asidozu (Tympani Ruminis Lactica / Grain Overload)",
       "patofizyoloji": "Hızlı sindirilebilir kolay fermente karbonhidratların (buğday/arpa) aşırı tüketilmesi sonucu Streptococcus bovis ve Lactobacillus türleri hızla çoğalır. Rumen pH'sı 5.0'ın altına düşer. Volatile fatty acids (VFA) yerini D- ve L-laktik aside bırakır. Rumen osmolalitesi fırlar (osmotic fluid shift), dolaşımdaki su rumene çekilir. Rumen epiteli süzgeç özelliğini kaybeder (kimyasal rumenitis), emilen L- ve D-laktat sistemik D-laktik metabolik asidoz, şiddetli dehidrasyon ve oligürik böbrek yetmezliği şekillendirir.",
@@ -63,7 +63,7 @@
           "dehidrasyon",
           "sıcaklık"
         ],
-        "content": "Rektal Sıcaklık: 37.2 °C (Hipotermi) | Nabız: 125 atım/dk (Zayıf ve ip gibi) | Solunum Sayısı: 48 nefes/dk (Hızlı ve derin Kussmaul solunumu) | Mukozalar: Koyu çamur kırmızısı (konjestif) ve kuru | CRT: 4.5 saniye | Dehidrasyon Derecesi: %10-12 (Şiddetli enoftalmus/göz çökmesi)."
+        "content": "Rektal Sıcaklık: 37.2 °C (Hipotermi) | Nabız: 125 atım/dk (Zayıf ve ip gibi) | Solunum Sayısı: 48 nefes/dk (Hızlı ve derin solunumu) | Mukozalar: Koyu çamur kırmızısı (konjestif) ve kuru | CRT: 4.5 saniye | Dehidrasyon Derecesi: %10-12 (Şiddetli enoftalmus/göz çökmesi)."
       },
       "OSKULTASYON": {
         "name": "Oskültasyon ve Muayene Bulguları",
@@ -97,7 +97,7 @@
           "fibrinojen",
           "lökosit"
         ],
-        "content": "RBC: 10.8 x10⁶/µL (Şiddetli Hemokonsantrasyon) | Hb: 16.5 g/dL | PCV: %52 (Masif Sıvı Kaybı / Dehidrasyon) | MCV: 48.1 fL | MCH: 15.2 pg | MCHC: 31.7 g/dL | WBC: 3.2 x10³/µL (Şiddetli Lökopeni / Toksik Endotoksemik Katılım) | Nötrofil (Parçalı): %35 | Nötrofil (Çomak): %18 (Degeneratif Sola Kayma & Toksik Nötrofiller) | Lenfosit: %42 | Monosit: %4 | Eozinofil: %1 | Bazofil: %0 | PLT: 140 x10³/µL | Fibrinojen: 650 mg/dL | PP/F Oranı: 12.3."
+        "content": "RBC: 10.8 x10⁶/µL (Şiddetli Hemokonsantrasyon) | Hb: 16.5 g/dL | PCV: %52 (Masif Sıvı Kaybı / Dehidrasyon) | MCV: 48.1 fL | MCH: 15.2 pg | MCHC: 31.7 g/dL | WBC: 3.2 x10³/µL (Şiddetli Lökopeni / Toksik Endotoksemik Katılım) | Nötrofil (Parçalı): %35 | Nötrofil (Çomak): %18 (Degeneratif Sola Kayma) | Lenfosit: %42 | Monosit: %4 | Eozinofil: %1 | Bazofil: %0 | PLT: 140 x10³/µL | Fibrinojen: 650 mg/dL | PP/F Oranı: 12.3."
       },
       "BIYOKIMYA_PANELI": {
         "name": "Bütünsellikli Serum Biyokimyası Paneli",
@@ -154,7 +154,7 @@
   },
   "Vaka 2": {
     "kod": "S1B",
-    "sikayet": "Hocam, bizim taze doğum yapmış yüksek verimli ineğimiz 10 gündür doğru dürüst yem yemiyor. Kesif yemi tamamen reddediyor, sadece biraz kuru ot geveliyor. Sütü bir anda yarı yarıya düştü. Sol kaburgasının arkasına baktığımda hafif bir çöküklük var, arada bir sol böğründen 'zil sesi' gibi bir tınlama geliyor. Dışkısı da macun gibi cıvık, koyu renkli ve pis kokulu.",
+    "sikayet": "Hocam, bizim taze doğum yapmış yüksek verimli ineğimiz 10 gündür doğru dürüst yem yemiyor. Kesif yemi tamamen reddediyor, sadece biraz kuru ot geveliyor. Sütü bir anda yarı yarıya düştü.  Dışkısı da macun gibi cıvık, koyu renkli ve pis kokulu.",
     "egitmen_bilgisi": {
       "kesin_tani": "Sola Abomasum Deplasmanı (LDA / Left Displaced Abomasum)",
       "patofizyoloji": "Doğum sonrası abdominal boşlukta genişleyen alan, abomasum atonisi (hipokalsemi, yüksek kesif yem/düşük kaba yem rasyonu ve negatif enerji dengesi) ile birleşir. Gaz ve sıvı ile dolan abomasum, rumen altından sola ve yukarıya doğru kayarak sol abdominal duvar ile rumen arasına yerleşir. Omental çekme ve hafif darlık nedeniyle parsiyel tıkanıklık, hidroklorik asit (HCl) ve potasyumun abomasumda birikmesiyle sistemik hipokloremik, hipokalemik metabolik alkaloz şekillenir.",
@@ -202,7 +202,7 @@
           "motilite",
           "geviş"
         ],
-        "content": "Selektif iştah (kesif yemi reddediyor, az miktar ot yiyor). Rumen hareketleri: 5 dakikada 1 kez, son derece zayıf ve hipomotil. Sol paralumbal çukur çökmüş, rumen medial tarafa kaymış."
+        "content": "Selektif iştah (kesif yemi reddediyor, az miktar ot yiyor). Rumen hareketleri: 5 dakikada 1 kez, son derece zayıf ve hipomotil."
       },
       "VITAL_BULGULAR": {
         "name": "Vital Bulgular ve Fiziksel Muayene",
@@ -226,7 +226,7 @@
           "şırıltı",
           "auscultation"
         ],
-        "content": "Sol Abdominal Oskültasyon-Perküsyon: Sol 9., 10., 11. ve 12. interkostal aralıklar boyunca, dirsek arkasından açlığa doğru çizilen hatta PATOGNOMONİK 'PİNG' (metalik çelik/zil tınlaması) sesi alınıyor. Çalkalamada şırıltı (succussion splash) duyuluyor."
+        "content": "Sol Abdominal Oskültasyon-Perküsyon: Sol 9., 10., 11. ve 12. interkostal aralıklar boyunca, dirsek arkasından açlığa doğru çizilen hatta PATOGNOMONİK 'PİNG' (metalik) sesi alınıyor. Çalkalamada şırıltı duyuluyor."
       },
       "AGRI_TESTLERI": {
         "name": "Abdominal ve Torasik Ağrı Provokasyon Testleri",
@@ -264,7 +264,7 @@
           "klor",
           "potasyum"
         ],
-        "content": "ALT: 28 U/L | AST: 115 U/L (Hafif karaciğer yükü) | GGT: 34 U/L | ALP: 88 U/L | SDH: 4 U/L | GLDH: 6 U/L | CK: 160 U/L | Total Protein: 7.8 g/dL | Albümin: 3.1 g/dL | Globülin: 4.7 g/dL | A/G Oranı: 0.66 | BUN: 26 mg/dL | Serum Kreatinin: 1.2 mg/dL | SDMA: 11 µg/dL | Total Bilirubin: 0.8 mg/dL | Direkt Bilirubin: 0.3 mg/dL | İndirekt Bilirubin: 0.5 mg/dL | Glikoz: 42 mg/dL (Hipoglisemi - Ketozis eğilimi) | Na⁺: 134 mEq/L | K⁺: 3.1 mEq/L (HİPOKALEMİ) | Cl⁻: 82 mEq/L (ŞİDDETLİ HİPOKLOREMİ) | Ca²⁺: 7.8 mg/dL (Hafif Subklinik Hipokalsemi) | Beta-Hidroksibütirat (BHB): 2.1 mmol/L (Sekonder Ketozis)."
+        "content": "ALT: 28 U/L | AST: 115 U/L (Hafif karaciğer yükü) | GGT: 34 U/L | ALP: 88 U/L | SDH: 4 U/L | GLDH: 6 U/L | CK: 160 U/L | Total Protein: 7.8 g/dL | Albümin: 3.1 g/dL | Globülin: 4.7 g/dL | A/G Oranı: 0.66 | BUN: 26 mg/dL | Serum Kreatinin: 1.2 mg/dL | SDMA: 11 µg/dL | Total Bilirubin: 0.8 mg/dL | Direkt Bilirubin: 0.3 mg/dL | İndirekt Bilirubin: 0.5 mg/dL | Glikoz: 42 mg/dL (Hipoglisemi - Ketozis eğilimi) | Na⁺: 134 mEq/L | K⁺: 3.1 mEq/L (HİPOKALEMİ) | Cl⁻: 82 mEq/L (ŞİDDETLİ HİPOKLOREMİ) | Ca²⁺: 7.8 mg/dL (Hafif Subklinik Hipokalsemi) | Beta-Hidroksibütirat (BHB): 2.1 mmol/L (Ketozis)."
       },
       "KAN_GAZI": {
         "name": "Venöz & Arteriyel Kan Gazı Analizi",
@@ -305,7 +305,7 @@
   },
   "Vaka 3": {
     "kod": "S1C",
-    "sikayet": "Ağam hemen yetişin! Bizim inek dünden beri sancıdan duramıyor. Karnını tekmeliyor, yatıp yatıp kalkıyor, arkasına bakıp inliyor. Sağ tarafı aşırı derecede şişti, sanki sağ karnına büyük bir baloncuk konmuş gibi. Dışkı yapması tamamen durdu, zifiri siyah vıcık vıcık zift gibi az bir şey kanlı dışkı geldi sadece. Hayvanın gözleri çöktü, buz gibi soğudu!",
+    "sikayet": "Bizim inek dünden beri sancıdan duramıyor. Karnını tekmeliyor, yatıp yatıp kalkıyor, arkasına bakıp inliyor. Sağ tarafı aşırı derecede şişti, sanki sağ karnına büyük bir baloncuk konmuş gibi. Dışkı yapması tamamen durdu, zifiri siyah vıcık vıcık zift gibi az bir şey kanlı dışkı geldi sadece. Hayvanın gözleri çöktü, buz gibi soğudu!",
     "egitmen_bilgisi": {
       "kesin_tani": "Sağa Abomasum Deplasmanı ve Volvulus / Burkulma (RDA / Abomasal Volvulus)",
       "patofizyoloji": "Abomasumun sağa kayması (RDA) sonrası kendi ekseni etrafında saat yönünde veya tersinde burkulması (volvulus) şekillenir. Mesenterik ve omental damarlar boğulur (strangülasyon). Abomasum duvarında masif venöz staz, iskemi, nekroz ve gangren gelişir. Sıvı ve gaz abomasumda hapsolur. Ağır şok, hipovolemi, doku iskemisinden kaynaklı L-laktik asidoz ve aşırı elektrolit (Cl-, K+) hapsolmasıyla akut kardiyovasküler çöküş gelişir.",
@@ -413,7 +413,7 @@
           "klor",
           "potasyum"
         ],
-        "content": "ALT: 38 U/L | AST: 340 U/L (Abomasum duvar nekrozu ve doku iskemisi) | GGT: 48 U/L | ALP: 140 U/L | SDH: 5 U/L | GLDH: 8 U/L | CK: 680 U/L (Sancı nedeniyle kas ezilmesi) | Total Protein: 9.8 g/dL (Ağır Dehidrasyon) | Albümin: 3.8 g/dL | Globülin: 6.0 g/dL | A/G Oranı: 0.63 | BUN: 68 mg/dL (Ağır Prerenal Azotemi) | Serum Kreatinin: 3.2 mg/dL | SDMA: 19 µg/dL | Total Bilirubin: 1.8 mg/dL | Direkt Bilirubin: 0.8 mg/dL | İndirekt Bilirubin: 1.0 mg/dL | Glikoz: 210 mg/dL (Ağır Şok Hiperglisemisi) | Na⁺: 126 mEq/L (Hiponatremi) | K⁺: 2.8 mEq/L (AĞIR HİPOKALEMİ - Abomasumda hapsolma) | Cl⁻: 72 mEq/L (AĞIR MASİF HİPOKLOREMİ) | Ca²⁺: 6.2 mg/dL (Ağır Hipokalsemi)."
+        "content": "ALT: 38 U/L | AST: 340 U/L (Abomasum duvar nekrozu ve doku iskemisi) | GGT: 48 U/L | ALP: 140 U/L | SDH: 5 U/L | GLDH: 8 U/L | CK: 680 U/L (Sancı nedeniyle kas ezilmesi) | Total Protein: 9.8 g/dL (Ağır Dehidrasyon) | Albümin: 3.8 g/dL | Globülin: 6.0 g/dL | A/G Oranı: 0.63 | BUN: 68 mg/dL (Ağır Prerenal Azotemi) | Serum Kreatinin: 3.2 mg/dL | SDMA: 19 µg/dL | Total Bilirubin: 1.8 mg/dL | Direkt Bilirubin: 0.8 mg/dL | İndirekt Bilirubin: 1.0 mg/dL | Glikoz: 210 mg/dL (Ağır Şok Hiperglisemisi) | Na⁺: 126 mEq/L (Hiponatremi) | K⁺: 2.8 mEq/L (AĞIR HİPOKALEMİ) | Cl⁻: 72 mEq/L (AĞIR MASİF HİPOKLOREMİ) | Ca²⁺: 6.2 mg/dL (Ağır Hipokalsemi)."
       },
       "KAN_GAZI": {
         "name": "Venöz & Arteriyel Kan Gazı Analizi",
@@ -448,7 +448,7 @@
           "ping",
           "liptak"
         ],
-        "content": "Sağ Abdominal Ultrasonografi: Sağ abdominal duvar boyunca devasa boyutta genişlemiş, içi gaz ve sıvı dolu, duvarı kalınlaşmış/ödemli abomasum organı görülüyor.\nRektal Muayene: Rektum boş ve mukuslu. Sağ dorsolateral alanda aşırı gergin, balon gibi şişmiş abomasumun sol organ sınırına ulaşılabiliyor (Patognomonik)."
+        "content": "Sağ Abdominal Ultrasonografi: Sağ abdominal duvar boyunca devasa boyutta genişlemiş, içi gaz ve sıvı dolu, duvarı kalınlaşmış/ödemli organ görülüyor.\nRektal Muayene: Rektum boş ve mukuslu. Sağ dorsolateral alanda aşırı gergin, balon gibi şişmiş organ sınırına ulaşılabiliyor (Patognomonik)."
       }
     }
   }
